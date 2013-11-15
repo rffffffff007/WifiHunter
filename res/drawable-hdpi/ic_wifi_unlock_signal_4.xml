@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:drawable="@drawable/ic_wifi_signal_4"
+		android:top="0dp"
+		android:right="0dp"
+		android:bottom="0dp"
+		android:left="0dp" />
+	<item
+		android:drawable="@drawable/ic_right"
+		android:top="14dp"
+		android:right="4dp"
+		android:bottom="6dp"
+		android:left="16dp" />
+</layer-list>
+
